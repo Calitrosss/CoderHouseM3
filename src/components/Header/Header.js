@@ -1,4 +1,7 @@
+// Style
 import "./Header.css";
+
+// Images
 import Logo from "../../images/logo.png";
 
 export default function Header() {
